@@ -1,0 +1,24 @@
+{
+  "name": "rm-automation-ui-script",
+  "version": "1.0.0",
+  "description": "UI Script for for creating team types and members after RM onboarding",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://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@github.tools.sap/oneprocurement/rm-automation-ui-script.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@wdio/cli": "^7.20.5",
+    "@wdio/local-runner": "^7.20.5",
+    "@wdio/mocha-framework": "^7.20.3",
+    "@wdio/spec-reporter": "^7.20.3",
+    "chromedriver": "^103.0.0",
+    "wdio-chromedriver-service": "^7.3.2"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "targetResponsibleUrl": "https://ngproc-dev-eu10-allstablefeatures.responsibility-management.cfapps.eu10.hana.ondemand.com/cp.portal/site#Shell-home",
+
+  "generalInformation" : {
+    "globalID": "test",
+    "description": "test",
+    "status": "Enabled",
+    "type": "OP123"
+  },
+
+  "responsibilityDefinitions" : {
+    "plant": "1010",
+    "companyCode": "1010"
+  },
+
+  "teamOwnersKeys": ["Dilip Patidar"],
+
+  "teamMembers": [
+    {
+      "displayName": "Dilip Patidar",
+      "functions": ["CATMANAG", "OP_PURCH"]
+    },
+    {
+      "displayName": "Poorna B",
+      "functions": ["PURMAN", "WF_ADMIN"]
+    }
+  ]
+}
